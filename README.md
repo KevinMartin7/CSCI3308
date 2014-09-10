@@ -6,6 +6,8 @@ CSCI3308
 
 Lab
 
+Partner: Alex Goodwin!!!
+
 Partners: Alex Goodwin, Stephen Thoma, Sierra Murphy
 
 
