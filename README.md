@@ -7,3 +7,6 @@ CSCI3308
 Lab
 
 Partners: Alex Goodwin, Stephen Thoma, Sierra Murphy
+
+
+this might cause a merge conflict
